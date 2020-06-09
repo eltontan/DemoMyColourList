@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo My Colour List</string>
+    <string name="btnAddColour">ADD NEW COLOUR</string>
+</resources>
